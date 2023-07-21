@@ -1,15 +1,15 @@
 import React from "react";
 import portImage from "../assets/portfolio/portfolio-wesite-image.jpg";
 import mts from "../assets/portfolio/mts.png";
-import blog from "../assets/portfolio/blog-website-image-2.jpg";
+import bloodbank from "../assets/portfolio/blood-bank.jpg";
 import { GoFileCode } from "react-icons/go"
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
       src: portImage,
-      demoLink: "https://master--dancing-klepon-0d506f.netlify.app/", // Add your demo link here
-      codeLink: "https://github.com/siddofficial13/Personal-Portfolio", // Add your code link here
+      demoLink: "", // Add your demo link here
+      codeLink: "https://github.com/adarshranjanbit/Portfolio/tree/master", // Add your code link here
       demoName: "Portfolio",
     },
     {
@@ -17,15 +17,15 @@ const Portfolio = () => {
       src: mts,
       demoLink: "https://meet-the-stranger-adarsh.onrender.com/", // Add your demo link here
       codeLink: "https://github.com/adarshranjanbit/meet-the-strangers", // Add your code link here
-      demoName: "Meet-the-Strangers",
+      demoName: "MTS",
     },
-    // {
-    //   id: 3,
-    //   src: blog,
-    //   demoLink: "https://drive.google.com/file/d/1AP1wTuEqvXUCUlSSawd1GbF7VQOeCu_f/view?usp=sharing", // Add your demo link here
-    //   codeLink: "https://github.com/siddofficial13/SoulScribbles", // Add your code link here
-    //   demoName: "SoulScribble",
-    // },
+    {
+      id: 3,
+      src: bloodbank,
+      demoLink: "", // Add your demo link here
+      codeLink: "https://github.com/adarshranjanbit/Blood-Bank-Manager", // Add your code link here
+      demoName: "Blood-Bank",
+    },
   ];
   return (
     <div

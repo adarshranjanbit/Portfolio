@@ -14,9 +14,9 @@ const Home = () => {
             I'm a Full Stack Web Developer
           </h2>
           <p className="mt-7 text-gray-500 py-4 max-w-md">
-            Hello there! I'm Adarsh Ranjan, a versatile Full Stack Web Developer and
-            Competitive Programmer. My expertise lies in technologies like
-            React, Node, Express, MongoDB, and more. I strive to create
+            Hi! Myself Adarsh, a Problem Solver and a versatile Full Stack Web Developer.
+            My expertise lies in technologies like
+            MERN stack. I strive to create
             captivating and intuitive web experiences while constantly
             sharpening my problem-solving skills.
           </p>

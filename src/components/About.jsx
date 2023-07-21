@@ -13,22 +13,18 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Hey there! I'm currently pursuing a B.Tech in Information Technology
-          at Birla Institute Of Technology, Mesra. As an engineering
-          undergraduate, I'm passionate about competitive programming and web
-          development.I have experience with languages like C++ and C, as well
-          as Data Structures and Algorithms.
+        Myself Adarsh Ranjan, a pre-final year undergraduate student in IT, with proficiency in DSA and various web technologies including frameworks such as React and Node.js. I aim to leverage my expertise in web dev, along with my strong understanding of DSA, to pursue a dynamic career in the software industry. 
         </p>
         <br />
         <p className="text-xl">
-          Apart from competitive programming, I'm also a Full Stack MERN
-          Developer. I'm enthusiastic about exploring this field further and
-          building web applications. Currently, I'm actively working on projects
-          to gain more practical experience. I'm eager to learn and discover
-          more in the exciting world of web development, constantly seeking new
-          challenges to enhance my skills. I have listed some of my projects 
-          which you can check out below.
+        I am passionate about contributing to developing innovative web applications by harnessing cutting-edge technologies. I am eager to join a collaborative team where I can apply my problem-solving abilities and passion for delivering high-quality, user-centric solutions that drive business success.
         </p>
+        <br />
+        <br />
+        <br /> 
+        <br /> 
+
+        
       </div>
     </div>
   );
